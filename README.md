@@ -5,7 +5,7 @@
 Programming for Data Science Nanodegree Program
 
 ### Description
-bikeshare details
+bikeshare details of New York City, CHicago, Washington
 
 ### Files used
 Python and .csv files
